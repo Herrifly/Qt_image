@@ -3,9 +3,9 @@
 ## Prepare project environment
 ~~~bash
 mkdir ~/points_image
-git clone git@github.com:Uni-Schedule-App/backend.git backend
+git clone https://github.com/Herrifly/Qt_image.git
 python3 -m venv venv
-source venv/bin/activate && cd ~/uni-app/backend
+source venv/bin/activate
 pip install -r  requirements.txt
 ~~~
 
